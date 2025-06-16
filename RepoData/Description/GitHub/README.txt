@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🍏️🖥️[🇴.🇸]2️⃣️6️⃣️📖️ The official documentation source repository/separate repository for the archival and development of WacOS 26.x, an open source remake of MacOS Tahoe (26.x)
